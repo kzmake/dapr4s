@@ -1,2 +1,3 @@
-# dapr4s
-Unofficial dapr sdk for scala
+# sdapr
+
+Unofficial dapr sdk for scala. **This is personal project.**
